@@ -90,6 +90,7 @@ i:hover {
     color: white;
     font-size: small;
     font-weight: 600;
+    cursor: pointer;
 }
 
 
@@ -112,5 +113,5 @@ i:hover {
 .dropdown .submenu li {
     display: block;
     text-align: left;
-    padding: 9px 29px;
+    padding: 9px 0;
 }

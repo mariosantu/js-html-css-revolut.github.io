@@ -17,6 +17,11 @@ $(document).ready(function() {
         $(this).children('i').removeClass('fa-chevron-up');
         $(this).children('i').addClass('fa-chevron-down');
     });
+
+    $('.chevroned').mouseenter(function() {
+        $(this).children('.dropdown').css('min-width', '100px');
+    });
+    
 });
 
 
