@@ -44,6 +44,21 @@ ul li a {
 a:hover {
     color: black;
 }
+
+span {
+    font-size: small;
+    color: violet;
+    vertical-align: super;
+}
+
+i {
+    font-size: 10px;
+    color: #A0A6AD;
+}
+
+i:hover {
+    color: black;
+}
 /*COMMON end*/
 
 
@@ -76,6 +91,8 @@ a:hover {
     font-size: small;
     font-weight: 600;
 }
+
+
 
 /*dropdown*/
 
